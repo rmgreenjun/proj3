@@ -1,0 +1,80 @@
+C:\Users\MAX-Student\Desktop\Rich Green\text books etc\c_sharp\proj2\WebApplication1\bin\roslyn\csc.exe
+C:\Users\MAX-Student\Desktop\Rich Green\text books etc\c_sharp\proj2\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MAX-Student\Desktop\Rich Green\text books etc\c_sharp\proj2\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MAX-Student\Desktop\Rich Green\text books etc\c_sharp\proj2\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MAX-Student\Desktop\Rich Green\text books etc\c_sharp\proj2\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MAX-Student\Desktop\Rich Green\text books etc\c_sharp\proj2\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MAX-Student\Desktop\Rich Green\text books etc\c_sharp\proj2\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MAX-Student\Desktop\Rich Green\text books etc\c_sharp\proj2\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MAX-Student\Desktop\Rich Green\text books etc\c_sharp\proj2\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MAX-Student\Desktop\Rich Green\text books etc\c_sharp\proj2\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\MAX-Student\Desktop\Rich Green\text books etc\c_sharp\proj2\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\MAX-Student\Desktop\Rich Green\text books etc\c_sharp\proj2\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MAX-Student\Desktop\Rich Green\text books etc\c_sharp\proj2\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\MAX-Student\Desktop\Rich Green\text books etc\c_sharp\proj2\WebApplication1\bin\WebApplication1.dll
+C:\Users\MAX-Student\Desktop\Rich Green\text books etc\c_sharp\proj2\WebApplication1\bin\WebApplication1.pdb
+C:\Users\MAX-Student\Desktop\Rich Green\text books etc\c_sharp\proj2\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MAX-Student\Desktop\Rich Green\text books etc\c_sharp\proj2\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MAX-Student\Desktop\Rich Green\text books etc\c_sharp\proj2\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\MAX-Student\Desktop\Rich Green\text books etc\c_sharp\proj2\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\MAX-Student\Desktop\Rich Green\text books etc\c_sharp\proj2\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\MAX-Student\Desktop\Rich Green\workspace\proj3\WebApplication1\bin\roslyn\csc.exe
+C:\Users\MAX-Student\Desktop\Rich Green\workspace\proj3\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MAX-Student\Desktop\Rich Green\workspace\proj3\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MAX-Student\Desktop\Rich Green\workspace\proj3\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MAX-Student\Desktop\Rich Green\workspace\proj3\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MAX-Student\Desktop\Rich Green\workspace\proj3\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MAX-Student\Desktop\Rich Green\workspace\proj3\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MAX-Student\Desktop\Rich Green\workspace\proj3\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MAX-Student\Desktop\Rich Green\workspace\proj3\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MAX-Student\Desktop\Rich Green\workspace\proj3\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\MAX-Student\Desktop\Rich Green\workspace\proj3\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\MAX-Student\Desktop\Rich Green\workspace\proj3\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MAX-Student\Desktop\Rich Green\workspace\proj3\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\MAX-Student\Desktop\Rich Green\workspace\proj3\WebApplication1\bin\WebApplication1.dll
+C:\Users\MAX-Student\Desktop\Rich Green\workspace\proj3\WebApplication1\bin\WebApplication1.pdb
+C:\Users\MAX-Student\Desktop\Rich Green\workspace\proj3\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MAX-Student\Desktop\Rich Green\workspace\proj3\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MAX-Student\Desktop\Rich Green\workspace\proj3\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\MAX-Student\Desktop\Rich Green\workspace\proj3\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\MAX-Student\Desktop\Rich Green\workspace\proj3\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Rich\Desktop\Rich Green\workspace\proj3\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Rich\Desktop\Rich Green\workspace\proj3\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rich\Desktop\Rich Green\workspace\proj3\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rich\Desktop\Rich Green\workspace\proj3\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rich\Desktop\Rich Green\workspace\proj3\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rich\Desktop\Rich Green\workspace\proj3\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rich\Desktop\Rich Green\workspace\proj3\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rich\Desktop\Rich Green\workspace\proj3\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rich\Desktop\Rich Green\workspace\proj3\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rich\Desktop\Rich Green\workspace\proj3\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Rich\Desktop\Rich Green\workspace\proj3\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rich\Desktop\Rich Green\workspace\proj3\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rich\Desktop\Rich Green\workspace\proj3\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Rich\Desktop\Rich Green\workspace\proj3\WebApplication1\bin\WebApplication1.dll
+C:\Users\Rich\Desktop\Rich Green\workspace\proj3\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Rich\Desktop\Rich Green\workspace\proj3\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rich\Desktop\Rich Green\workspace\proj3\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rich\Desktop\Rich Green\workspace\proj3\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Rich\Desktop\Rich Green\workspace\proj3\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Rich\Desktop\Rich Green\workspace\proj3\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Rich\OneDrive\workspace\proj3\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Rich\OneDrive\workspace\proj3\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rich\OneDrive\workspace\proj3\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rich\OneDrive\workspace\proj3\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rich\OneDrive\workspace\proj3\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rich\OneDrive\workspace\proj3\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rich\OneDrive\workspace\proj3\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rich\OneDrive\workspace\proj3\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rich\OneDrive\workspace\proj3\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rich\OneDrive\workspace\proj3\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Rich\OneDrive\workspace\proj3\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rich\OneDrive\workspace\proj3\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rich\OneDrive\workspace\proj3\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Rich\OneDrive\workspace\proj3\WebApplication1\bin\WebApplication1.dll
+C:\Users\Rich\OneDrive\workspace\proj3\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Rich\OneDrive\workspace\proj3\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rich\OneDrive\workspace\proj3\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rich\OneDrive\workspace\proj3\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Rich\OneDrive\workspace\proj3\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Rich\OneDrive\workspace\proj3\WebApplication1\obj\Debug\WebApplication1.pdb
